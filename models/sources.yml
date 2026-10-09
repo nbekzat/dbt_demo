@@ -1,0 +1,8 @@
+
+sources:
+  - name: demo_source
+    database: demo
+    schema: demo_schema 
+    tables:
+      - name: bike_table  # enabled
+      - name:  weather_table  #  enabled 
